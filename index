@@ -1,0 +1,3 @@
+app.background('blue')
+print('James is cool')
+
